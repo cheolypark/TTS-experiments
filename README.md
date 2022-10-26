@@ -18,9 +18,7 @@ For this, we developed a simple webpage and microservice using React.js and Fast
 - Components
   - Frontend:
     - Google cloud run
-    - React.js
-    - Next.js
-    - Node.js
+    - React.js 
   - Microservice (ML worker):
     - Google cloud run
     - FastAPI
