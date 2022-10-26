@@ -5,11 +5,11 @@ For this, we developed a simple webpage and microservice using React.js and Fast
  
 ## 1. TTS models
 ### 1.1 VITS
-- Paper: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech [Link](https://arxiv.org/abs/2106.06103).
+- Paper: "Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech" <a href="https://arxiv.org/abs/2106.06103" target="_blank">Link</a>. 
 
 
 ## 2. TTS Web
-- TTS test web [Link](https://tts-web-amngybagua-uc.a.run.app/en/intro).
+- TTS test web: <a href="https://tts-web-amngybagua-uc.a.run.app/en/intro" target="_blank">Link</a>.
 
 <p align="center">
   <img src="./resource/web.png" width="600" />
